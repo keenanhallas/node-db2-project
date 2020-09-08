@@ -1,3 +1,5 @@
+//this file is used to set up top-level middleware & server settings, and instantiate the server
+
 //imports
 const express = require("express");
 const helmet = require("helmet");
